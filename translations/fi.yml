@@ -20,12 +20,12 @@ trade_every: Lähetys joka
 traders_per_trade: Kauppiaita tarvitaan
 travel_time: Matka-aika
 distance: Etäisyys
-main: Main
+main: Pääasiallinen
 source: Lähdekoodi
 source_title: Kopioi torin "lähetä resursseja" sivun lähdekoodi tähän.
 celebrations: Juhlinta
 help: Do you want to help with code or translations?
-none: None
+none: Ei mitään
 small: Pieni
 great: Suuri
 automatically: Automaattinen
@@ -34,9 +34,9 @@ teutons: Teutonit
 gauls: Gallialaiset
 egyptians: Egyptiläiset
 huns: Hunnit
-additional_target: Additional Target
-additional_target_title: 0|0 will be ignored
+additional_target: Vaihtoehtoinen kohde
+additional_target_title: 0|0 jätetään huomioimatta
 only_crop: Vain vilja
 town_hall_level: Kaupungintalon taso
 tribe_title: Valitse vain jos ei automaattisesti havaittu
-advanced: Advanced
+advanced: Edistyneet
